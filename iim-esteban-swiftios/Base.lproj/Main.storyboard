@@ -113,7 +113,7 @@
             </objects>
             <point key="canvasLocation" x="-159" y="-272"/>
         </scene>
-        <!--Pokemon-->
+        <!--Liste-->
         <scene sceneID="XQV-tf-Iwv">
             <objects>
                 <viewController id="qsS-6D-djL" customClass="ViewController" customModule="iim_esteban_swiftios" customModuleProvider="target" sceneMemberID="viewController">
@@ -136,7 +136,7 @@
                             <outlet property="delegate" destination="qsS-6D-djL" id="Kwc-ny-rXv"/>
                         </connections>
                     </tableView>
-                    <tabBarItem key="tabBarItem" title="Pokemon" image="list.bullet" catalog="system" id="CEm-Ls-qEO"/>
+                    <tabBarItem key="tabBarItem" title="Liste" image="list.bullet" catalog="system" id="CEm-Ls-qEO"/>
                     <connections>
                         <outlet property="tableView" destination="jTF-4Q-kAm" id="JaO-am-eCf"/>
                     </connections>
